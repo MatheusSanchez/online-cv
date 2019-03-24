@@ -34,16 +34,6 @@ sidebar:
       - item: Cooking
         link:
 
-career-profile:
-    title: Management of Sinacor, Summer Intern
-    summary: |
-      - Monitored the market and clients demands to construct and implement the new technology services.
-      - Support the team in the specification of the evolutions and propose improvements in the functionalities of the product "Sinacor".
-      - Support teams in designing solutions through documentation. Acting in conjunction with other areas of the company to execute and / or monitor activities.
-
-
-      Second paragraph if required.
-
 education:
     - degree: MSc in Computer Science
       university: University of London
@@ -114,7 +104,23 @@ experiences:
 
           - Bullet point
           - Bullet point
+          
+Education:
+    - role: Bachelor degree in Computer Science.
+      time: 2017- 2021
+      company: Institute of Mathematical and Computer Sciences,  University of São Paulo. 
 
+    - role: Bachelor System of Information.
+      time: 2016
+      company: School of Arts Sciences and Humanities, University of São Paulo. 
+
+    - role: Summer course.
+      company: University of São Paulo. 
+          - Algorithms in Java
+          - Programming in Java
+          - Programming Logic with Java
+          - Introduction to Computer Science
+          
 projects:
     title: Projects
     intro: >
